@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "menu-beer": {
+      "hosting": {
+        "menu-beer": [
+          "menu-beer"
+        ]
+      }
+    }
+  }
+}
